@@ -16,7 +16,7 @@ const Home = () => {
                     <strong className="brand"> Dark Lord Designs</strong>
                   </h1>
                   <h2 className="my-3">We will love to hear from you.</h2>
-                  <div className="mt-3">
+                  <div className="my-3">
                     <Link className="btn-get-started" to="/service">
                       Have a tour >>
                     </Link>
