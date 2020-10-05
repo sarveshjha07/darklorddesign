@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="container-fluid nav_bg">
         <div className="row">
           <div className="col-10 mx-auto">
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg navbar-light bg-light m-2">
               <div className="container-fluid">
                 <NavLink className="navbar-brand" to="/">
                   Dark Lord Designs
