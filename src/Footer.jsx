@@ -12,12 +12,12 @@ const Footer = () => {
             <h3> Download our app</h3>
             <p>Download app for android and ios mobile phone.</p>
             <div className="app-logo">
-              <img src={web} />
-              <img src={web1} />
+              <img src={web} alt="aapstorlogo" />
+              <img src={web1} alt="playstorelogo" />
             </div>
           </div>
           <div className="footer-col-2">
-            <img src={web2} />
+            <img src={web2} alt="mainlogo" />
             <p>
               Our Purpose is to Sustainably make the pleasure Benefits of Best
               designs Accessible to the Many
