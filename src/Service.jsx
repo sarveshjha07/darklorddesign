@@ -129,7 +129,7 @@ const Service = () => {
         </div>
       </div>
       <div id="header" className="my-3 ml-5">
-        <Link className="btn-get-started" to="/about">
+        <Link className="btn-get-started" to="/postimage">
           Visit next >>
         </Link>
       </div>
