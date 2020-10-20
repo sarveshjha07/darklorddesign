@@ -43,7 +43,7 @@ const Footer = () => {
           </div>
         </div>
         <hr />
-        <p className="copyright">@Copyright 2020 - DarkLordDesign(sarvesh) </p>
+        <p className="copyright">©Copyright 2020 - DarkLordDesign(sarvesh) </p>
       </div>
     </div>
   );

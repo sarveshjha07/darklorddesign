@@ -8,6 +8,8 @@ import Service from "./Service";
 import Contact from "./Contact";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import PostImage from "./PostImage";
+import "./index.css";
 
 const App = () => {
   return (
@@ -18,6 +20,7 @@ const App = () => {
         <Route exact path="/about" component={About} />
         <Route exact path="/service" component={Service} />
         <Route exact path="/contact" component={Contact} />
+        <Route exact path="/postimage" component={PostImage} />
         <Redirect to="/" />
       </Switch>
       <Footer />

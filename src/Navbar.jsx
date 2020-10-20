@@ -55,6 +55,16 @@ const Navbar = () => {
                         className="nav-link"
                         activeClassName="menu_active"
                         exact
+                        to="/postimage"
+                      >
+                        Post Image
+                      </NavLink>
+                    </li>
+                    <li className="nav-item">
+                      <NavLink
+                        className="nav-link"
+                        activeClassName="menu_active"
+                        exact
                         to="/about"
                       >
                         About
