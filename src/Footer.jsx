@@ -29,7 +29,7 @@ const Footer = () => {
             />
             <p>
               Our Purpose is to Sustainably make the pleasure Benefits of Best
-              designs Accessible to the Many
+              dservices Accessible to the Many
             </p>
           </div>
           <div className="footer-col-4">
