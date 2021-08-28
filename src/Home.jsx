@@ -13,7 +13,7 @@ const Home = () => {
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h1>
                     Grow Your Business with
-                    <strong className="brand"> Dream Designs</strong>
+                    <strong className="brand"> DarkLord Designs</strong>
                   </h1>
                   <h2 className="my-3">We will love to hear from you.</h2>
                   <div className="my-3">
